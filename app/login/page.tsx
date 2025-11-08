@@ -402,7 +402,7 @@ function LoginForm() {
                 margin: 0,
               }}
             >
-              Don't have an account?{' '}
+              Don&apos;t have an account?{' '}
               <a
                 href="/signup"
                 style={{
